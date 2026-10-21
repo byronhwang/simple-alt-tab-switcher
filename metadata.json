@@ -4,14 +4,10 @@
   "name": "Simple Alt-Tab Switcher",
   "settings-schema": "org.gnome.shell.extensions.simple-alt-tab-switcher",
   "shell-version": [
-    "45",
-    "46",
-    "47",
-    "48",
-    "49",
     "50",
     "51"
   ],
+  "url": "https://github.com/byronhwang/simple-alt-tab-switcher",
   "uuid": "simple-alt-tab-switcher@byronhwang.github.com",
   "version-name": "1.0"
 }
