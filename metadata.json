@@ -1,0 +1,17 @@
+{
+  "description": "A clean Alt+Tab switcher showing windows of the current monitor only, with single-app cycling, minimized-window filtering, and monitor focus shortcuts. Based on AATWS (Advanced Alt-Tab Window Switcher) by G-dH.",
+  "gettext-domain": "simple-alt-tab-switcher",
+  "name": "Simple Alt-Tab Switcher",
+  "settings-schema": "org.gnome.shell.extensions.simple-alt-tab-switcher",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "uuid": "simple-alt-tab-switcher@byronhwang.github.com",
+  "version-name": "1.0"
+}
